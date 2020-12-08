@@ -1,0 +1,12 @@
+nltk==3.2.5
+fastai==1.0.61
+torch==1.7.0+cu101
+torch-nightly==1.2.0.dev20190805+cu92
+torchsummary==1.5.1
+torchtext==0.3.1
+torchvision==0.8.1+cu101
+pandas==1.1.4
+numpy==1.18.5
+sklearn==0.0
+text-preprocessing==0.0.9
+textract==1.6.3
