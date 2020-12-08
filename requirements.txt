@@ -10,3 +10,4 @@ numpy==1.18.5
 sklearn==0.0
 text-preprocessing==0.0.9
 textract==1.6.3
+urllib3==1.24.3
